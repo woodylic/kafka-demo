@@ -22,3 +22,8 @@ docker-compose down
 
 ## producer
 
+TODO:
+
+需要处理往QuartzJob注入KafkaTemplate，可参看：
+
+https://stackoverflow.com/questions/6990767/inject-bean-reference-into-a-quartz-job-in-spring
